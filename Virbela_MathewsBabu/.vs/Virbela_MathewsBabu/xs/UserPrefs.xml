@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{72466CDB-02E6-FBE9-6E19-079348C9AF19}|">
+  <MonoDevelop.Ide.ItemProperties.PlayMode PreferredExecutionTarget="276c7215-5daf-4c9d-af9e-c2f0afdabda7" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Unittests/PlayMode/DemoTest.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controller.cs" Line="76" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="36" Column="1" />
+      <File FileName="Assets/Scripts/ObjectClass.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/Bot.cs" Line="44" Column="1" />
+      <File FileName="Assets/Scripts/Item.cs" Line="43" Column="1" />
+      <File FileName="Assets/Unittests/PlayMode/DemoTest.cs" Line="9" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Virbela_MathewsBabu" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="276c7215-5daf-4c9d-af9e-c2f0afdabda7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
